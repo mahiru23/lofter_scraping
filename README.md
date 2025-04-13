@@ -1,6 +1,8 @@
 # lofter_scraping
 
 
+本项目使用requests库模拟请求，通过F12观察network protocol，伪造header，cookies和POST data
+
 
 `itera_like`：获取所有like文章内容
 
